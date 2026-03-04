@@ -4,7 +4,7 @@ LawGPT Pakistan Pro is an AI-powered Urdu legal assistant designed specifically 
 
 Built with Streamlit, it offers a professional chat interface, session management, and persistent chat history using SQLite.
 
-# 🚀 Features
+# Features
 
 ✅ Pure Urdu legal responses
 
@@ -36,7 +36,7 @@ Practical Advice
 
 ✅ Context-aware answers from local knowledge base
 
-# 🏗️ Tech Stack
+# Tech Stack
 
 Frontend: Streamlit
 
@@ -50,7 +50,7 @@ Database: SQLite
 
 Language: Python
 
-# 📂 Project Structure
+# Project Structure
 LawGPT/
 │
 ├── main.py              # Main application file
@@ -59,7 +59,7 @@ LawGPT/
 └── knowledge_base/
     └── vector_db/           # FAISS vector store
 
-# 💬 How It Works
+# How It Works
 
 User enters a legal question in Urdu.
 
@@ -79,11 +79,11 @@ Chat is saved in SQLite database.
 
 UI auto-scrolls to latest message.
 
-# 🗃️ Database
+# Database
 
 The application automatically creates.
 
-# 🎛️ Customization Options
+# Customization Options
 
 From Sidebar:
 
@@ -98,5 +98,6 @@ Chat search
 Rename / Delete chats
 
 New Chat
+
 
 Theme toggle
